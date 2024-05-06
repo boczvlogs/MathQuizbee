@@ -13,7 +13,8 @@ public class MathQuiz {
             "What is 30 % 7?",
             "What is 3 to the power of 4?",
             "What is the next prime number after 7?",
-            "What is the result of 10 + 20 - 5 * 2?"
+            "What is the result of 10 + 20 - 5 * 2?",
+            "What is the result of 15 + 2 - 5 ?"
         };
         
         String[] answers = {
@@ -26,7 +27,8 @@ public class MathQuiz {
             "2",
             "81",
             "11",
-            "20"
+            "20",
+            "12"
         };
 
         // Initialize Scanner for user input

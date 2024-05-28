@@ -15,6 +15,7 @@ public class MathQuiz {
             "What is the next prime number after 7?",
             "What is the result of 10 + 20 - 5 * 2?",
             "What is the result of 15 + 2 - 5 ?"
+            "What is the result of 75 + 38 - 25 ?"
         };
         
         String[] answers = {
@@ -28,7 +29,8 @@ public class MathQuiz {
             "81",
             "11",
             "20",
-            "12"
+            "12",
+            "88"
         };
 
         // Initialize Scanner for user input

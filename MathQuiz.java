@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MathQuiz {
     public static void main(String[] args) {
-        // Questions and Answers v1.1 lite For Agoo Admin
+        // Questions and Answers v1.1 lite For Agoo Admin only
         String[] questions = {
             "What is 5 + 7?",
             "What is 15 - 8?",

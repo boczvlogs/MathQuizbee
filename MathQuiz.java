@@ -36,7 +36,7 @@ public class MathQuiz {
         // Initialize Scanner for user input
         Scanner scanner = new Scanner(System.in);
 
-        // Counter for correct answers
+  
         int score = 0;
 
         // Loop through questions
